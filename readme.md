@@ -1,4 +1,4 @@
-# Sidney Shafer
+# Portfolio
 
 ## License
 The MIT License
