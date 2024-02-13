@@ -1,4 +1,5 @@
 # Portfolio
+Visit `Sidney Shafer` portfolio site: https://sidney-shafer.netlify.app/
 
 ## License
 The MIT License
