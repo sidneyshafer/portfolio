@@ -1,9 +1,9 @@
 # Portfolio
-
 [Live Link](https://sidney-shafer.netlify.app/)
 
-## License
+![image](https://github.com/sidneyshafer/portfolio/assets/66838571/82c11b56-ff8e-4d00-a5c5-5cc503daebfc)
 
+## License
 The MIT License
 
 Copyright (c) 2023 Sidney Shafer
