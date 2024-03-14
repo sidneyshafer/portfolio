@@ -1,7 +1,7 @@
-# Portfolio
-[Live Link](https://sidney-shafer.netlify.app/)
+# Portfolio Template
 
 ## License
+
 The MIT License
 
 Copyright (c) 2023 Sidney Shafer
